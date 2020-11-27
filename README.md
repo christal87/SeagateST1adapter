@@ -1,6 +1,6 @@
 # SeagateST1adapter
 
-This is a quick and dirty IDE adapter for Seagate ST1 drives with ATA Flex interface.  
+This is a quick and dirty 40 or 44 pin IDE adapter for Seagate ST1 drives with ATA Flex interface.  
 These drives were common in mid- to high-end portable music players between 2000-2008.  
   
 My PCB was quickly routed with FreeRouting using an exported Specctra session file from KiCAD.  
@@ -16,3 +16,7 @@ Also Hans-Jürgen Reggel experimented with them awhile ago. Which you can see [h
 - ST64022FX (4GB) (2005)
 - ST66022FX (6GB) (2005)
 - ST68022FX (8GB) (2005)
+  
+  
+![Revision 1 pic](/docs/pics/IMG_1983.jpg "Revision 1 pic")  
+![Revision 1 pic](/docs/pics/IMG_1984.jpg "Revision 1 pic")  
