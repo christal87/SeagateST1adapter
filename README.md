@@ -3,6 +3,8 @@
 This is a quick and dirty 40 or 44 pin IDE adapter for Seagate ST1 drives with ATA Flex interface.  
 These drives were common in mid- to high-end portable music players between 2000-2008.  
   
+![Illustration](/docs/pics/Screenshot_20201127_205614.png "Illustration")    
+  
 My PCB was quickly routed with FreeRouting using an exported Specctra session file from KiCAD.  
 I have tested raw and unpartitioned writes with dd, filling an ST650211FX disk with about 1GB of zeroes shown 3MB/s throughtput at an average.  
   
