@@ -1,0 +1,1 @@
+# SeagateST1adapter
